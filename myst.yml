@@ -7,7 +7,7 @@ project:
     - name: Roel Smit
 
   date: 2025-11-05
-  github: https://github.com/Contemporary-Physicslab/thermolab # Change this URL to your GitHub repository
+  github: https://fynn-vrolijk123.github.io/Groep_3_IP_2_Thermo_Vladmir-Fynn/ # Change this URL to your GitHub repository
 
 extends:
   - plugins.yml
@@ -24,4 +24,5 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/Contemporary-Physicslab/thermolab/issues # change this URL to your repository
+      url: https://fynn-vrolijk123.github.io/Groep_3_IP_2_Thermo_Vladmir-Fynn/ # change this URL to your repository
+
